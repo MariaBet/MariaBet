@@ -28,5 +28,6 @@ Meu nome é Maria Betânia ...:
  - 😄 Eu sou apaixonada por livros 
  - 📊 Eu estou trabalhando criando chatbots inteligentes
  - 📚 Estou estudando uma especialização em Inteligência Artificial e Aprendizado de Máquina
+ - 🔭 Skills: Python | SQL | Nodejs | 
  - 🌍 Eu gosto da área de geoprocessamento e dados geográficos
  - 🌱 Trabalho voluntariamente para a Apa Águas do Leme 
