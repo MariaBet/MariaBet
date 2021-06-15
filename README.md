@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Maria Betânia :
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-betania-honorio/)](https://www.linkedin.com/in/maria-betania-honorio/)
+
+
+### Bem vindo(a)! 👋 ao meu Perfil!
+
+Meu nome é Maria Betânia ...:
+
+ - 😄 Eu sou apaixonada por livros 
+ - 📊 Eu estou trabalhando criando chatbots inteligentes
+ - 📚 Estou estudando uma especialização em Inteligência Artificial e Aprendizado de Máquina
+ - 🌍 Eu gosto da área de geoprocessamento e dados geográficos
+ - 🌱 Trabalho voluntariamente para a Apa Águas do Leme 
